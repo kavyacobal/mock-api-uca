@@ -69,5 +69,55 @@
     "text": "Baldor Specialty Foods",
     "value": "Baldor Specialty Foods"
   }
+  ],
+"manufacturer": [
+       {
+    "uniqueId_directdealid": "01",
+    "manufacturerDetails": {
+      "uniqueId": "8f399557-1c83-ea11-a812-000d3a5c0e3c",
+      "manufacturerName": "13 Foods LLC"
+    },
+    "manufacturerName": "PeanutPremium",
+    "effectiveDate": "2020-11-26",
+    "expirationDate": "2022-11-26",
+    "trackingData": true,
+    "uploadContract": null,
+    "account": {
+      "accountId": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c"
+    },
+    "uploadContractName": "direct_deal.doc"
+  },
+  {
+    "uniqueId_directdealid": "02",
+    "manufacturerDetails": {
+      "uniqueId": "8f399557-1c83-ea11-a812-000d3a5c0e3c",
+      "manufacturerName": "13 Foods LLC"
+    },
+    "manufacturerName": "PeanutPremium",
+    "effectiveDate": "2020-11-26",
+    "expirationDate": "2022-11-28",
+    "trackingData": true,
+    "uploadContract": null,
+    "account": {
+      "accountId": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c"
+    },
+    "uploadContractName": "direct_deal.doc"
+  },
+  {
+    "uniqueId_directdealid": "03",
+    "manufacturerDetails": {
+      "uniqueId": "8f399557-1c83-ea11-a812-000d3a5c0e3c",
+      "manufacturerName": "13 Foods LLC"
+    },
+    "manufacturerName": "PeanutPremium",
+    "effectiveDate": "2020-11-26",
+    "expirationDate": "2022-11-29",
+    "trackingData": false,
+    "uploadContract": null,
+    "account": {
+      "accountId": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c"
+    },
+    "uploadContractName": "direct_deal.doc"
+  }
   ]
   
