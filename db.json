@@ -1,0 +1,53 @@
+"elop":{
+	"classofTradeCategory": "HealthCare",
+  "classofTradeSubCategory": "Acute",
+  "organizationName": "sample",
+  "dba": "string",
+  "federalId": "string",
+  "primaryFullName": "kavya",
+  "contactTitle": "string",
+  "email": "string",
+  "phoneNumber": "string",
+  "contactAddress": "string",
+  "contactCountry": "string",
+  "contactCity": "string",
+  "contactState": "string",
+  "contactZip": "string",
+  "isWishSecondaryContact": true,
+  "secContactName": "string",
+  "secContactEmail": "string",
+  "secContactPhoneNumber": "string",
+  "isWorkWithFoodbuyBDR": true,
+  "listRepresentativeName": "string",
+  "organizationStatement1": true,
+  "organizationStatement2": true,
+  "organizationStatement3": true,
+  "isMastDistriAgreement": true,
+  "servicesAgreementAnswers": "string",
+  "elopLocations": [
+    {
+      "locationName": null,
+      "address": "string",
+      "country": "string",
+      "city": "string",
+      "state": "string",
+      "zipCode": "string"
+    }
+  ],
+  "elopFoodServices": [
+    {
+      "isChecked": true,
+      "contactName": "string",
+      "contactPhoneNumber": "string",
+      "contactEmailAddress": "string",
+      "isAuthorizeFoodbuyInfo": true
+    }
+  ],
+  "isAcknowledged": false,
+  "ackApplicantFullName": "string",
+  "ackTitle": "string",
+  "ackDate": "string",
+  "signature": null,
+  "eLOPFormPDF": "string"
+  }
+  
