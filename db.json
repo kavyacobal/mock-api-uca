@@ -49,5 +49,25 @@
   "ackDate": "string",
   "signature": null,
   "eLOPFormPDF": "string"
+  },
+"distributorsList":[
+  {
+    "text": "American Hotel",
+    "value": "American Hotel",
+    "locations": [
+      {
+        "text": "Cash-Wa Distributing - Aberdeen SD",
+        "value": "Cash-Wa Distributing - Aberdeen SD"
+      },
+      {
+        "text": "Cash-Wa ",
+        "value": "Cash-Wa "
+      }
+    ]
+  },
+  {
+    "text": "Baldor Specialty Foods",
+    "value": "Baldor Specialty Foods"
   }
+  ]
   
