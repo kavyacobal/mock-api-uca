@@ -31,6 +31,7 @@
     "expirationDate": "2022-11-26",
     "trackingData": true,
     "uploadContract": null,
+"category":"8345678",
     "account": {
       "accountId": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c"
     },
@@ -47,6 +48,7 @@
     "expirationDate": "2022-11-28",
     "trackingData": true,
     "uploadContract": null,
+"category":"8345677",
     "account": {
       "accountId": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c"
     },
@@ -63,6 +65,7 @@
     "expirationDate": "2022-11-29",
     "trackingData": false,
     "uploadContract": null,
+"category":"8345676",
     "account": {
       "accountId": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c"
     },
