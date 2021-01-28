@@ -123,5 +123,8 @@
   "ackDate": "string",
   "signature": null,
   "eLOPFormPDF": "string"
+  },
+  "memberProfileStatus":{
+    IsExistingMember: true
   }
 }
