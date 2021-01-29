@@ -126,5 +126,19 @@
   },
   "memberProfileStatus":{
     "IsExistingMember": true
+  },
+  "confirmHierarchy":[
+  {
+    "requestType": null,
+    "customerNumber": null,
+    "updateHierarchy": null,
+    "confirmLocation": false,
+    "accountId": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c",
+    "accountName": null,
+    "parentAccountId": null,
+    "parentAccountName": null,
+    "financiallyResponsible": null,
+    "address": null
   }
+]
 }
