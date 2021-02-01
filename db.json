@@ -119,8 +119,7 @@
   "memberProfileStatus":{
     "IsExistingMember": true
   },
-  "confirmHierarchy":[
-  {
+  "confirmHierarchy":{
     "requestType": null,
     "customerNumber": null,
     "updateHierarchy": null,
@@ -132,5 +131,5 @@
     "financiallyResponsible": null,
     "address": null
   }
-]
+
 }
