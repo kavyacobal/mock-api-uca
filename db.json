@@ -98,8 +98,7 @@
   "organizationStatement3": true,
   "isMastDistriAgreement": true,
   "servicesAgreementAnswers": "string",
-  "elopLocations": [
-  ],
+  "elopLocations": null,
   "elopFoodServices": [
     {
       "isChecked": true,
