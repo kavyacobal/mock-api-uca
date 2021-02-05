@@ -31,7 +31,7 @@
     "expirationDate": "2022-11-26",
     "trackingData": true,
     "uploadContract": null,
-"category":"836780002",
+"category":"Regional",
     "account": {
       "accountId": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c"
     },
@@ -48,7 +48,7 @@
     "expirationDate": "2022-11-28",
     "trackingData": true,
     "uploadContract": null,
-"category":"836780002",
+"category":"Broadline",
     "account": {
       "accountId": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c"
     },
@@ -65,7 +65,7 @@
     "expirationDate": "2022-11-29",
     "trackingData": false,
     "uploadContract": null,
-"category":"836780001",
+"category":"Broadline",
     "account": {
       "accountId": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c"
     },
