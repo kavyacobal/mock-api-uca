@@ -112,11 +112,11 @@
       "isAuthorizeFoodbuyInfo": true
     }
   ],
-  "isAcknowledged": false,
+  "isAcknowledged": true,
   "ackApplicantFullName": "string",
   "ackTitle": "string",
   "ackDate": "string",
-  "signature": null,
+  "signature": "string",
   "eLOPFormPDF": "string"
   },
   "memberProfileStatus":{
