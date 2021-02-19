@@ -119,7 +119,7 @@
       "contactPhoneNumber": "string",
       "contactEmailAddress": "string",
       "isAuthorizeFoodbuyInfo": true
-    },
+    }
   ],
   "isAcknowledged": true,
   "ackApplicantFullName": "string",
