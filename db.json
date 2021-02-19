@@ -105,12 +105,21 @@
   "elopLocations": null,
   "elopFoodServices": [
     {
+      "foodServiceName":"sysco",
       "isChecked": true,
       "contactName": "string",
       "contactPhoneNumber": "string",
       "contactEmailAddress": "string",
       "isAuthorizeFoodbuyInfo": true
-    }
+    },
+      {
+      "foodServiceName":"cheney",
+      "isChecked": true,
+      "contactName": "string",
+      "contactPhoneNumber": "string",
+      "contactEmailAddress": "string",
+      "isAuthorizeFoodbuyInfo": true
+    },
   ],
   "isAcknowledged": true,
   "ackApplicantFullName": "string",
