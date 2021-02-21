@@ -77,7 +77,7 @@
   }
   ],
   "elop":{
-  "classofTradeCategory": "HealthCare",
+  "classofTradeCategory": null,
   "classofTradeSubCategory": "Acute",
   "organizationName": "sample",
   "dba": "string",
