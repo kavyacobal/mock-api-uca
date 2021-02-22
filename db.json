@@ -121,7 +121,7 @@
       "isAuthorizeFoodbuyInfo": true
     }
   ],
-   "elopDistributors":null
+   "elopDistributors":null,
   "isAcknowledged": true,
   "ackApplicantFullName": "string",
   "ackTitle": "string",
