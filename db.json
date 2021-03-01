@@ -106,14 +106,28 @@
   "elopFoodServices": [
     {
       "foodServiceName":"sysco",
-      "isChecked": true,
+      "isChecked": false,
       "contactName": "string",
       "contactPhoneNumber": "string",
       "contactEmailAddress": "string",
-      "isAuthorizeFoodbuyInfo": true
+      "isAuthorizeFoodbuyInfo": true,
+      "syscoAgreementDate" : "2022-11-26",
+	    "syscoEffectiveDate": "2022-11-26",
+	"providerCompanyName": "Parent company name"
     },
       {
       "foodServiceName":"cheney",
+      "isChecked": false,
+      "contactName": "string",
+      "contactPhoneNumber": "string",
+      "contactEmailAddress": "string",
+      "isAuthorizeFoodbuyInfo": false,
+        "cheneyAccountName" : "string",
+	"cheneyAccountNumber": "string",
+	"cheneyStartDate": "2022-11-26"
+    },
+    {
+      "foodServiceName":"reinhart",
       "isChecked": true,
       "contactName": "string",
       "contactPhoneNumber": "string",
