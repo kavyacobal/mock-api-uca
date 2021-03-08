@@ -140,7 +140,7 @@
   "ackApplicantFullName": "string",
   "ackTitle": "string",
   "ackDate": "string",
-  "signature": "string",
+  "signature": null,
   "eLOPFormPDF": "string"
   },
   "memberProfileStatus":{
