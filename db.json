@@ -78,7 +78,7 @@
   ],
   "elop":{
   "classofTradeCategory": null,
-  "classofTradeSubCategory": "Acute",
+  "classofTradeSubCategory": null,
   "organizationName": "sample",
   "dba": "string",
   "federalId": "string",
@@ -140,7 +140,6 @@
   "ackApplicantFullName": "string",
   "ackTitle": "string",
   "ackDate": "string",
-  "signature": null,
   "eLOPFormPDF": "string"
   },
   "memberProfileStatus":{
