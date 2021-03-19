@@ -152,7 +152,7 @@
     "requestType": null,
     "customerNumber": null,
     "updateHierarchy": null,
-    "confirmLocation": true,
+    "confirmLocation": false,
     "accountId": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c",
     "accountName": null,
     "parentAccountId": null,
