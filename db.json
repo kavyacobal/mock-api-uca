@@ -33,6 +33,10 @@
     "uploadContract": null,
 "category":"e19059c4-7aec-ea11-a817-000d3a5bf119",
          "subCategory":"e19059c4-7aec-ea11-a817-000d3a5bf119",
+	       "manufacturerSubCategory": {
+      "displayText": "Curtains",
+      "subCategoryId": "e19059c4-7aec-ea11-a817-000d3a5bf119"
+    },
          "isExpired":"836780001",
     "account": {
       "accountId": "5faa65ff-bb19-eb11-a813-000d3a5c0e3c"
@@ -51,6 +55,10 @@
     "trackingData": true,
     "uploadContract": null,
          "subCategory":"32d0ca3e-7aec-ea11-a817-000d3a5bf119",
+	  "manufacturerSubCategory": {
+      "displayText": "Air  Curtains",
+      "subCategoryId": "32d0ca3e-7aec-ea11-a817-000d3a5bf119"
+    },
          "isExpired":"836780000",
 "category":"e09059c4-7aec-ea11-a817-000d3a5bf119",
     "account": {
