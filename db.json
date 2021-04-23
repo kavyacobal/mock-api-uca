@@ -151,10 +151,7 @@
   "eLOPFormPDF": "string"
   },
   "memberProfileStatus":{
-  "isNonTechOnboarding": true,
-  "isNewMember": true,
-  "isDirectCustomer": false,
-  "isNonWaiverDistributor": false
+ "isNonTechOnboarding":null,"isNewMember":null,"isDirectCustomer":null,"isNonWaiverDistributor":null
 },
   "confirmHierarchy":{
     "requestType": null,
