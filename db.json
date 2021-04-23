@@ -97,7 +97,7 @@
   "contactAddress": "string",
   "contactCountry": "Egypt",
   "contactCity": "string",
-  "contactState": null,
+  "contactState": "Florida",
   "contactZip": "string",
   "isWishSecondaryContact": true,
   "secContactName": "string",
