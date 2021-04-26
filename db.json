@@ -154,7 +154,10 @@
   "isNonTechOnboarding": true,
   "isNewMember": true,
   "isDirectCustomer": false,
-  "isNonWaiverDistributor": false
+  "isNonWaiverDistributor": false,
+	    "isBroadlineEnabled": true,
+  "isRegionalEnabled": true,
+  "isSESEnabled": true
 },
   "confirmHierarchy":{
     "requestType": null,
