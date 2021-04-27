@@ -157,7 +157,9 @@
   "isNonWaiverDistributor": false,
 	    "isBroadlineEnabled": true,
   "isRegionalEnabled": true,
-  "isSESEnabled": true
+  "isSESEnabled": true,
+	  "businessChannelName": "Education",
+  "businessChannelId": "3d4341dc-3c98-e911-a981-000d3a32890b"
 },
   "confirmHierarchy":{
     "requestType": null,
