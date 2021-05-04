@@ -110,7 +110,19 @@
   "organizationStatement3": true,
   "isMastDistriAgreement": true,
   "servicesAgreementAnswers": "string",
-  "elopLocations": null,
+  "elopLocations": [{
+        "locationId": "145",
+        "locationName": "test location",
+        "locationAddress": {
+          "street1": null,
+          "street2": null,
+          "fullAddress": "test api address",
+          "city": "test api city",
+          "state": null,
+          "county": null,
+          "zipCode": null,
+          "country": "United States"
+        }],
   "elopFoodServices": [
     {
       "foodServiceName":"sysco",
