@@ -122,7 +122,8 @@
           "county": null,
           "zipCode": null,
           "country": "United States"
-        }],
+        }
+  }],
   "elopFoodServices": [
     {
       "foodServiceName":"sysco",
