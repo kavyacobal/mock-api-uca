@@ -111,9 +111,9 @@
   "isMastDistriAgreement": true,
   "servicesAgreementAnswers": "string",
   "elopLocations": [{
-        "locationId": "145",
-        "locationName": "test location",
-        "locationAddress": {
+        "id": "145",
+        "tierTitle": "test location",
+        "address": {
           "street1": null,
           "street2": null,
           "fullAddress": "test api address",
