@@ -85,7 +85,7 @@
   }
   ],
   "elop":{
-  "classofTradeCategory": null,
+  "classofTradeCategory": "Government",
   "classofTradeSubCategory": null,
   "organizationName": "sample",
   "dba": "string",
@@ -95,9 +95,9 @@
   "email": "string@gmail.com",
   "phoneNumber": "1234567890",
   "contactAddress": "string",
-  "contactCountry": "Egypt",
+  "contactCountry": null,
   "contactCity": "string",
-  "contactState": "Florida",
+  "contactState": null,
   "contactZip": "string",
   "isWishSecondaryContact": true,
   "secContactName": "string",
