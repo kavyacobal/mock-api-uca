@@ -86,7 +86,7 @@
   ],
   "elop":{
   "classofTradeCategory": "Government",
-  "classofTradeSubCategory": null,
+  "classofTradeSubCategory": "gov-test",
   "organizationName": "sample",
   "dba": "string",
   "federalId": "string",
