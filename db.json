@@ -165,7 +165,7 @@
   },
   "memberProfileStatus":{
   "isNonTechOnboarding": true,
-  "isNewMember": true,
+  "isNewMember": false,
   "isDirectCustomer": false,
   "isNonWaiverDistributor": false,
 	    "isBroadlineEnabled": true,
