@@ -94,7 +94,7 @@
   "contactTitle": "string",
   "email": "string@gmail.com",
   "phoneNumber": "1234567890",
-  "contactAddress": null,
+  "contactAddress": "",
   "contactCountry": "Egypt",
   "contactCity": "string",
   "contactState": null,
