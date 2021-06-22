@@ -85,16 +85,16 @@
   }
   ],
   "elop":{
-  "classofTradeCategory": "Government",
+  "classofTradeCategory": null,
   "classofTradeSubCategory": null,
   "organizationName": "sample",
   "dba": "string",
-  "federalId": "string",
+  "federalId": null,
   "primaryFullName": "kavya",
   "contactTitle": "string",
   "email": "string@gmail.com",
   "phoneNumber": "1234567890",
-  "contactAddress": "string",
+  "contactAddress": null,
   "contactCountry": "Egypt",
   "contactCity": "string",
   "contactState": null,
@@ -124,40 +124,8 @@
           "country": "United States"
         }
   }],
-  "elopFoodServices": [
-    {
-      "foodServiceName":"sysco",
-      "isChecked": false,
-      "contactName": "string",
-      "contactPhoneNumber": "string",
-      "contactEmailAddress": "string",
-      "isAuthorizeFoodbuyInfo": true,
-      "syscoAgreementDate" : "2022-11-26",
-	    "syscoEffectiveDate": "2022-11-26",
-	"providerCompanyName": "Parent company name"
-    },
-      {
-      "foodServiceName":"cheney",
-      "isChecked": false,
-      "contactName": "string",
-      "contactPhoneNumber": "string",
-      "contactEmailAddress": "string",
-      "isAuthorizeFoodbuyInfo": false,
-        "cheneyAccountName" : "string",
-	"cheneyAccountNumber": "string",
-	"cheneyStartDate": "2022-11-26"
-    },
-    {
-      "foodServiceName":"reinhart",
-      "isChecked": true,
-      "contactName": "string",
-      "contactPhoneNumber": "string",
-      "contactEmailAddress": "string",
-      "isAuthorizeFoodbuyInfo": true
-    }
-  ],
-   "elopDistributors":null,
-  "isAcknowledged": true,
+    "elopDistributors":null,
+  "isAcknowledged": false,
   "ackApplicantFullName": "string",
   "ackTitle": "string",
   "ackDate": "string",
