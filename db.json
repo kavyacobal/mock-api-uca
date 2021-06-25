@@ -119,7 +119,7 @@
   "eLOPFormPDF": "string"
   },
   "memberProfileStatus":{
-  "isNonTechOnboarding": true,
+  "isNonTechOnboarding": false,
   "isNewMember": false,
   "isDirectCustomer": false,
   "isNonWaiverDistributor": false,
