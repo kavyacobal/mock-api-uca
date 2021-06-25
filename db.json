@@ -110,20 +110,7 @@
   "organizationStatement3": true,
   "isMastDistriAgreement": true,
   "servicesAgreementAnswers": "string",
-  "elopLocations": [{
-        "id": "3333",
-        "tierTitle": "test location",
-        "address": {
-          "street1": null,
-          "street2": null,
-          "fullAddress": "test api address",
-          "city": "test api city",
-          "state": null,
-          "county": null,
-          "zipCode": null,
-          "country": "United States"
-        }
-  }],
+  "elopLocations":null,
     "elopDistributors":null,
   "isAcknowledged": false,
   "ackApplicantFullName": "string",
