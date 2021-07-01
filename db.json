@@ -111,7 +111,7 @@
   "isMastDistriAgreement": true,
   "servicesAgreementAnswers": "string",
   "elopLocations":null,
-    "elopDistributors":null,
+    "elopDistributors":[{"distributorName":"test"}],
   "isAcknowledged": false,
   "ackApplicantFullName": "string",
   "ackTitle": "string",
