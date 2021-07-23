@@ -93,7 +93,7 @@
   "primaryFullName": "kavya",
   "contactTitle": "string",
   "email": "string@gmail.com",
-  "phoneNumber": "1234567890",
+  "phoneNumber": null,
   "contactAddress": "",
   "contactCountry": "Egypt",
   "contactCity": "string",
