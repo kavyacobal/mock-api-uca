@@ -92,7 +92,7 @@
   "federalId": null,
   "primaryFullName": "kavya",
   "contactTitle": "string",
-  "email": "string@gmail.com",
+  "email": null,
   "phoneNumber": null,
   "contactAddress": "",
   "contactCountry": "Egypt",
