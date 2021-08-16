@@ -107,7 +107,7 @@
   "listRepresentativeName": "string",
   "organizationStatement1": true,
   "organizationStatement2": true,
-  "organizationStatement3": true,
+  "organizationStatement3": false,
   "isMastDistriAgreement": true,
   "servicesAgreementAnswers": "string",
   "elopLocations":null,
