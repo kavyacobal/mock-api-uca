@@ -109,7 +109,7 @@
   "organizationStatement2": true,
   "organizationStatement3": false,
   "isMastDistriAgreement": true,
-  "servicesAgreementAnswers": "string,The person signing below is an officer or authorized representative of the organization listed above ('Participant')",
+  "servicesAgreementAnswers": null,
   "elopLocations":null,
     "elopDistributors":[{"distributorName":"test"}],
   "isAcknowledged": false,
